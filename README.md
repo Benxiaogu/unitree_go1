@@ -1,5 +1,8 @@
 # Unitree GO1 开发
 
+Author: HanZhuo
+Last updated: 2024/11/17
+
 ## 一、基础篇
 
 ### 1.unitree 机器狗：有限状态机(FSM)
